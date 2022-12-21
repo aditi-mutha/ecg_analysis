@@ -3,5 +3,6 @@
 ## Project 1
 
 * Aditi 
-![](food architechture.jpg)
+
+![](Aaryan.png)
 
