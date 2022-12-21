@@ -3,4 +3,5 @@
 ## Project 1
 
 * Aditi 
-food architechture.jpg
+![](food architechture.jpg)
+
