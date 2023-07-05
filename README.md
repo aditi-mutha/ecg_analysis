@@ -11,5 +11,5 @@ A simple EDA of raw ECG readings.
 ## Q1.ipynb
 - Calculation of ST segment elevation using S peaks and T onsets.
 - ST segment elevation may lead to Myocardial Infarction (MI) if the readings are:
-- >= 1mm for male
-  >>= 0.5 mm for female
+- atleast 1mm for male
+- atleast 0.5 mm for female
