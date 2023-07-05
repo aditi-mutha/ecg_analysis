@@ -1,4 +1,4 @@
-# ECG wave analysis using neurokit2
+# ECG wave analysis 
 A simple EDA of raw ECG readings.
 
 ## Dataset
