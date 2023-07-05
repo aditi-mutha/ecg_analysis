@@ -20,7 +20,7 @@ A simple EDA of raw ECG readings.
 
 ## Q3.ipynb
 - An algorithm using 1D CNN for lead type detection based on wave morphology.
-- Used various features like: P peaks, P onsets, P offsets, Q peaks, R onsets, R offsets, S peaks, T peaks, T onsets and T offsets.
+- Used features like: P peaks, P onsets, P offsets, Q peaks, R onsets, R offsets, S peaks, T peaks, T onsets and T offsets.
 
 ## Q4.ipynb
 - A simple visualization of P peaks, Q peaks, S peaks, T peaks, P onsets and T offsets for all the 12 lead types.
